@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-label="Ron Finn profile banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#08111F"/>
+      <stop offset="0.52" stop-color="#0E1B2E"/>
+      <stop offset="1" stop-color="#11243A"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#14B8A6"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="390" rx="26" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="388" rx="25" fill="none" stroke="#26344D"/>
+
+  <g opacity="0.72" stroke="url(#line)" stroke-width="2">
+    <line x1="82" y1="96" x2="184" y2="54"/>
+    <line x1="82" y1="96" x2="174" y2="154"/>
+    <line x1="174" y1="154" x2="246" y2="104"/>
+    <line x1="184" y1="54" x2="246" y2="104"/>
+    <line x1="174" y1="154" x2="220" y2="224"/>
+    <line x1="246" y1="104" x2="294" y2="174"/>
+    <line x1="220" y1="224" x2="294" y2="174"/>
+    <line x1="82" y1="96" x2="64" y2="210"/>
+    <line x1="64" y1="210" x2="220" y2="224"/>
+  </g>
+
+  <g>
+    <circle cx="82" cy="96" r="13" fill="#14B8A6"/>
+    <circle cx="184" cy="54" r="8" fill="#38BDF8"/>
+    <circle cx="174" cy="154" r="9" fill="#F8FAFC"/>
+    <circle cx="246" cy="104" r="12" fill="#14B8A6"/>
+    <circle cx="220" cy="224" r="8" fill="#38BDF8"/>
+    <circle cx="294" cy="174" r="10" fill="#F8FAFC"/>
+    <circle cx="64" cy="210" r="7" fill="#14B8A6"/>
+  </g>
+
+  <text x="355" y="92" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif"
+        font-size="16" font-weight="700" letter-spacing="2.4">SCIENTIST · STRATEGIST · ENGINEER</text>
+  <text x="355" y="160" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif"
+        font-size="60" font-weight="760">Ron Finn</text>
+  <rect x="355" y="184" width="710" height="4" rx="2" fill="url(#line)"/>
+  <text x="355" y="230" fill="#DCE6F3" font-family="Inter,Segoe UI,Arial,sans-serif"
+        font-size="25" font-weight="650">Scientific Data Strategy · Computational Biology</text>
+  <text x="355" y="265" fill="#DCE6F3" font-family="Inter,Segoe UI,Arial,sans-serif"
+        font-size="25" font-weight="650">Software &amp; Data Engineering · Governance by Design</text>
+  <text x="355" y="312" fill="#A8B3C7" font-family="Inter,Segoe UI,Arial,sans-serif"
+        font-size="18">Building governed, reproducible and AI-ready systems for biotechnology and drug discovery.</text>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">
+    <rect x="355" y="335" width="112" height="34" rx="17" fill="#132A38" stroke="#1F766F"/>
+    <text x="411" y="357" text-anchor="middle" fill="#5EEAD4">STRATEGY</text>
+    <rect x="480" y="335" width="122" height="34" rx="17" fill="#132A38" stroke="#1F766F"/>
+    <text x="541" y="357" text-anchor="middle" fill="#5EEAD4">BIOLOGY</text>
+    <rect x="615" y="335" width="142" height="34" rx="17" fill="#11283A" stroke="#25658B"/>
+    <text x="686" y="357" text-anchor="middle" fill="#7DD3FC">ENGINEERING</text>
+    <rect x="770" y="335" width="144" height="34" rx="17" fill="#11283A" stroke="#25658B"/>
+    <text x="842" y="357" text-anchor="middle" fill="#7DD3FC">GOVERNANCE</text>
+    <rect x="927" y="335" width="112" height="34" rx="17" fill="#132A38" stroke="#1F766F"/>
+    <text x="983" y="357" text-anchor="middle" fill="#5EEAD4">DELIVERY</text>
+  </g>
+</svg>

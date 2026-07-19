@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Profile metrics pending first workflow run">
+  <rect width="1200" height="420" rx="22" fill="#0B1220"/>
+  <rect x="1" y="1" width="1198" height="418" rx="21" fill="none" stroke="#26344D"/>
+  <circle cx="42" cy="44" r="8" fill="#14B8A6"/>
+  <text x="64" y="50" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="750">Open-source portfolio pulse</text>
+  <text x="64" y="76" fill="#A8B3C7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">Run the “Update profile assets” workflow to load live GitHub metrics.</text>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <rect x="30" y="112" width="270" height="130" rx="16" fill="#111B2E" stroke="#26344D"/>
+    <text x="52" y="147" fill="#A8B3C7" font-size="13" font-weight="700">FLAGSHIP SYSTEMS</text>
+    <text x="52" y="198" fill="#F8FAFC" font-size="38" font-weight="750">3</text>
+    <text x="52" y="222" fill="#A8B3C7" font-size="13">Curated open-source projects</text>
+
+    <rect x="320" y="112" width="270" height="130" rx="16" fill="#111B2E" stroke="#26344D"/>
+    <text x="342" y="147" fill="#A8B3C7" font-size="13" font-weight="700">CORE DOMAINS</text>
+    <text x="342" y="198" fill="#F8FAFC" font-size="38" font-weight="750">4</text>
+    <text x="342" y="222" fill="#A8B3C7" font-size="13">Science · strategy · engineering · governance</text>
+
+    <rect x="610" y="112" width="270" height="130" rx="16" fill="#111B2E" stroke="#26344D"/>
+    <text x="632" y="147" fill="#A8B3C7" font-size="13" font-weight="700">DESIGN PRINCIPLE</text>
+    <text x="632" y="194" fill="#F8FAFC" font-size="25" font-weight="750">TRUST BY DESIGN</text>
+    <text x="632" y="222" fill="#A8B3C7" font-size="13">Contracts · lineage · quality · provenance</text>
+
+    <rect x="900" y="112" width="270" height="130" rx="16" fill="#111B2E" stroke="#26344D"/>
+    <text x="922" y="147" fill="#A8B3C7" font-size="13" font-weight="700">STATUS</text>
+    <text x="922" y="194" fill="#F8FAFC" font-size="25" font-weight="750">BUILDING IN PUBLIC</text>
+    <text x="922" y="222" fill="#A8B3C7" font-size="13">Iterative, testable and transparent</text>
+  </g>
+
+  <text x="30" y="298" fill="#A8B3C7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1.1">CURRENT SYSTEMS</text>
+  <circle cx="44" cy="333" r="5" fill="#14B8A6"/>
+  <text x="62" y="339" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700">dataswamp-biosystems</text>
+  <circle cx="44" cy="371" r="5" fill="#38BDF8"/>
+  <text x="62" y="377" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700">cell-painting-anndata-validator · bio-run-crate</text>
+</svg>

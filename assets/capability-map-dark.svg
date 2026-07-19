@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="Ron Finn capability map">
+  <rect width="1200" height="330" rx="22" fill="#0B1220"/>
+  <rect x="1" y="1" width="1198" height="328" rx="21" fill="none" stroke="#26344D"/>
+  <text x="34" y="48" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="750">Capability map</text>
+  <text x="34" y="72" fill="#A8B3C7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">An integrated scientific, technical and organisational operating model</text>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <rect x="30" y="96" width="270" height="204" rx="18" fill="#111B2E" stroke="#26344D"/>
+    <circle cx="58" cy="126" r="7" fill="#14B8A6"/>
+    <text x="76" y="133" fill="#F8FAFC" font-size="18" font-weight="700">Scientific computing</text>
+    <text x="52" y="171" fill="#A8B3C7" font-size="15">Genomics · single-cell</text>
+    <text x="52" y="199" fill="#A8B3C7" font-size="15">Spatial omics · bioimaging</text>
+    <text x="52" y="227" fill="#A8B3C7" font-size="15">Cell Painting · AnnData</text>
+    <text x="52" y="255" fill="#A8B3C7" font-size="15">Translational data</text>
+
+    <rect x="320" y="96" width="270" height="204" rx="18" fill="#111B2E" stroke="#26344D"/>
+    <circle cx="348" cy="126" r="7" fill="#38BDF8"/>
+    <text x="366" y="133" fill="#F8FAFC" font-size="18" font-weight="700">Engineering</text>
+    <text x="342" y="171" fill="#A8B3C7" font-size="15">Python · Nextflow · Docker</text>
+    <text x="342" y="199" fill="#A8B3C7" font-size="15">Kubernetes · CI/CD</text>
+    <text x="342" y="227" fill="#A8B3C7" font-size="15">Testing · typing · contracts</text>
+    <text x="342" y="255" fill="#A8B3C7" font-size="15">Cloud-native workflows</text>
+
+    <rect x="610" y="96" width="270" height="204" rx="18" fill="#111B2E" stroke="#26344D"/>
+    <circle cx="638" cy="126" r="7" fill="#14B8A6"/>
+    <text x="656" y="133" fill="#F8FAFC" font-size="18" font-weight="700">Data platforms</text>
+    <text x="632" y="171" fill="#A8B3C7" font-size="15">AWS · Google Cloud · S3</text>
+    <text x="632" y="199" fill="#A8B3C7" font-size="15">DataHub · OpenMetadata</text>
+    <text x="632" y="227" fill="#A8B3C7" font-size="15">OpenLineage · Benchling</text>
+    <text x="632" y="255" fill="#A8B3C7" font-size="15">Seqera · data products</text>
+
+    <rect x="900" y="96" width="270" height="204" rx="18" fill="#111B2E" stroke="#26344D"/>
+    <circle cx="928" cy="126" r="7" fill="#38BDF8"/>
+    <text x="946" y="133" fill="#F8FAFC" font-size="18" font-weight="700">Strategy &amp; governance</text>
+    <text x="922" y="171" fill="#A8B3C7" font-size="15">FAIR · ALCOA++ · quality</text>
+    <text x="922" y="199" fill="#A8B3C7" font-size="15">Lineage · stewardship</text>
+    <text x="922" y="227" fill="#A8B3C7" font-size="15">Architecture · roadmaps</text>
+    <text x="922" y="255" fill="#A8B3C7" font-size="15">Programme delivery</text>
+  </g>
+</svg>
