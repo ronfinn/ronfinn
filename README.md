@@ -10,13 +10,16 @@ bioinformatics and drug discovery.
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Scientific%20Software-3776AB?logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Nextflow-Reproducible%20Pipelines-23B064?logo=nextflow&logoColor=white" alt="Nextflow">
-  <img src="https://img.shields.io/badge/Docker-Containerised%20Workflows-2496ED?logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Data-Governance-334155" alt="Data governance">
-  <img src="https://img.shields.io/badge/Open-Science-0F766E" alt="Open science">
+  <code>Python</code>
+  &nbsp;·&nbsp;
+  <code>Nextflow</code>
+  &nbsp;·&nbsp;
+  <code>Docker</code>
+  &nbsp;·&nbsp;
+  <code>Scientific Data Governance</code>
+  &nbsp;·&nbsp;
+  <code>Open Science</code>
 </p>
-
 ---
 
 ## About me
