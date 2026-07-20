@@ -1,24 +1,112 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-label="Activity chart pending first workflow run">
-  <rect width="1200" height="370" rx="22" fill="#0B1220"/>
-  <rect x="1" y="1" width="1198" height="368" rx="21" fill="none" stroke="#26344D"/>
-  <circle cx="42" cy="44" r="8" fill="#38BDF8"/>
-  <text x="64" y="50" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="750">Twelve-month contribution activity</text>
-  <text x="64" y="76" fill="#A8B3C7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">Live contribution data will appear after the first workflow run.</text>
-  <g stroke="#22314A" stroke-width="1">
-    <line x1="80" y1="118" x2="1120" y2="118"/>
-    <line x1="80" y1="168" x2="1120" y2="168"/>
-    <line x1="80" y1="218" x2="1120" y2="218"/>
-    <line x1="80" y1="268" x2="1120" y2="268"/>
-  </g>
-  <path d="M 80 260 L 175 246 L 269 252 L 364 210 L 458 229 L 553 190 L 647 205 L 742 157 L 836 181 L 931 142 L 1025 164 L 1120 118"
-        fill="none" stroke="#14B8A6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-  <g fill="#0B1220" stroke="#14B8A6" stroke-width="3">
-    <circle cx="80" cy="260" r="4.5"/><circle cx="175" cy="246" r="4.5"/>
-    <circle cx="269" cy="252" r="4.5"/><circle cx="364" cy="210" r="4.5"/>
-    <circle cx="458" cy="229" r="4.5"/><circle cx="553" cy="190" r="4.5"/>
-    <circle cx="647" cy="205" r="4.5"/><circle cx="742" cy="157" r="4.5"/>
-    <circle cx="836" cy="181" r="4.5"/><circle cx="931" cy="142" r="4.5"/>
-    <circle cx="1025" cy="164" r="4.5"/><circle cx="1120" cy="118" r="4.5"/>
-  </g>
-  <text x="600" y="327" text-anchor="middle" fill="#A8B3C7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">Illustrative placeholder — generated locally, not loaded from a public statistics service</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370"
+        viewBox="0 0 1200 370" role="img"
+        aria-label="Twelve-month GitHub contribution activity">
+      <rect width="1200" height="370" rx="22" fill="#0B1220"/>
+      <rect x="1" y="1" width="1198" height="368" rx="21"
+            fill="none" stroke="#26344D"/>
+      <circle cx="42" cy="44" r="8" fill="#38BDF8"/>
+      <text x="64" y="50" fill="#F8FAFC" font-size="24" font-weight="750">
+        Twelve-month contribution activity
+      </text>
+      <text x="64" y="73" fill="#A8B3C7" font-size="14">
+        Public GitHub contributions aggregated by month
+      </text>
+      <text x="1118" y="44" text-anchor="end" fill="#F8FAFC"
+            font-size="22" font-weight="750">151</text>
+      <text x="1118" y="65" text-anchor="end" fill="#A8B3C7"
+            font-size="12">TOTAL CONTRIBUTIONS</text>
+      
+            <line x1="80" y1="100.0" x2="1120"
+                  y2="100.0" stroke="#22314A" stroke-width="1"/>
+            <text x="62" y="105.0" text-anchor="end"
+                  fill="#A8B3C7" font-size="12">52</text>
+            
+            <line x1="80" y1="147.5" x2="1120"
+                  y2="147.5" stroke="#22314A" stroke-width="1"/>
+            <text x="62" y="152.5" text-anchor="end"
+                  fill="#A8B3C7" font-size="12">39</text>
+            
+            <line x1="80" y1="195.0" x2="1120"
+                  y2="195.0" stroke="#22314A" stroke-width="1"/>
+            <text x="62" y="200.0" text-anchor="end"
+                  fill="#A8B3C7" font-size="12">26</text>
+            
+            <line x1="80" y1="242.5" x2="1120"
+                  y2="242.5" stroke="#22314A" stroke-width="1"/>
+            <text x="62" y="247.5" text-anchor="end"
+                  fill="#A8B3C7" font-size="12">13</text>
+            
+            <line x1="80" y1="290.0" x2="1120"
+                  y2="290.0" stroke="#22314A" stroke-width="1"/>
+            <text x="62" y="295.0" text-anchor="end"
+                  fill="#A8B3C7" font-size="12">0</text>
+            
+      <path d="M 80.0 290.0 L 174.5 279.0 L 269.1 238.8 L 363.6 231.5 L 458.2 206.0 L 552.7 242.5 L 647.3 257.1 L 741.8 264.4 L 836.4 249.8 L 930.9 282.7 L 1025.5 290.0 L 1120.0 100.0" fill="none" stroke="#14B8A6" stroke-width="4"
+            stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="80.0" cy="290.0" r="4.5" fill="#0B1220" stroke="#14B8A6" stroke-width="3"/><circle cx="174.5" cy="279.0" r="4.5" fill="#0B1220" stroke="#14B8A6" stroke-width="3"/><circle cx="269.1" cy="238.8" r="4.5" fill="#0B1220" stroke="#14B8A6" stroke-width="3"/><circle cx="363.6" cy="231.5" r="4.5" fill="#0B1220" stroke="#14B8A6" stroke-width="3"/><circle cx="458.2" cy="206.0" r="4.5" fill="#0B1220" stroke="#14B8A6" stroke-width="3"/><circle cx="552.7" cy="242.5" r="4.5" fill="#0B1220" stroke="#14B8A6" stroke-width="3"/><circle cx="647.3" cy="257.1" r="4.5" fill="#0B1220" stroke="#14B8A6" stroke-width="3"/><circle cx="741.8" cy="264.4" r="4.5" fill="#0B1220" stroke="#14B8A6" stroke-width="3"/><circle cx="836.4" cy="249.8" r="4.5" fill="#0B1220" stroke="#14B8A6" stroke-width="3"/><circle cx="930.9" cy="282.7" r="4.5" fill="#0B1220" stroke="#14B8A6" stroke-width="3"/><circle cx="1025.5" cy="290.0" r="4.5" fill="#0B1220" stroke="#14B8A6" stroke-width="3"/><circle cx="1120.0" cy="100.0" r="4.5" fill="#0B1220" stroke="#14B8A6" stroke-width="3"/>
+      
+            <text x="80.0" y="320"
+                  text-anchor="middle" fill="#A8B3C7" font-size="12">
+              Aug
+            </text>
+            
+            <text x="174.5" y="320"
+                  text-anchor="middle" fill="#A8B3C7" font-size="12">
+              Sep
+            </text>
+            
+            <text x="269.1" y="320"
+                  text-anchor="middle" fill="#A8B3C7" font-size="12">
+              Oct
+            </text>
+            
+            <text x="363.6" y="320"
+                  text-anchor="middle" fill="#A8B3C7" font-size="12">
+              Nov
+            </text>
+            
+            <text x="458.2" y="320"
+                  text-anchor="middle" fill="#A8B3C7" font-size="12">
+              Dec
+            </text>
+            
+            <text x="552.7" y="320"
+                  text-anchor="middle" fill="#A8B3C7" font-size="12">
+              Jan 26
+            </text>
+            
+            <text x="647.3" y="320"
+                  text-anchor="middle" fill="#A8B3C7" font-size="12">
+              Feb
+            </text>
+            
+            <text x="741.8" y="320"
+                  text-anchor="middle" fill="#A8B3C7" font-size="12">
+              Mar
+            </text>
+            
+            <text x="836.4" y="320"
+                  text-anchor="middle" fill="#A8B3C7" font-size="12">
+              Apr
+            </text>
+            
+            <text x="930.9" y="320"
+                  text-anchor="middle" fill="#A8B3C7" font-size="12">
+              May
+            </text>
+            
+            <text x="1025.5" y="320"
+                  text-anchor="middle" fill="#A8B3C7" font-size="12">
+              Jun
+            </text>
+            
+            <text x="1120.0" y="320"
+                  text-anchor="middle" fill="#A8B3C7" font-size="12">
+              Jul
+            </text>
+            
+      <text x="80" y="350" fill="#A8B3C7" font-size="12">
+        Peak month: Jul 2026 · 52 contribution(s)
+      </text>
+    </svg>
+    
