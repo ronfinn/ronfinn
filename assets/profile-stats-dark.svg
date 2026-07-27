@@ -27,7 +27,7 @@
             <text x="340" y="124" fill="#A8B3C7" font-size="13"
                   font-weight="700" letter-spacing="1.1">REPOSITORY STARS</text>
             <text x="340" y="170" fill="#F8FAFC" font-size="34"
-                  font-weight="750">0</text>
+                  font-weight="750">1</text>
             <text x="340" y="201" fill="#A8B3C7" font-size="13">
               Across flagship systems
             </text>
@@ -47,7 +47,7 @@
             <text x="920" y="124" fill="#A8B3C7" font-size="13"
                   font-weight="700" letter-spacing="1.1">LATEST UPDATE</text>
             <text x="920" y="170" fill="#F8FAFC" font-size="24"
-                  font-weight="750">19 Jul 2026</text>
+                  font-weight="750">26 Jul 2026</text>
             <text x="920" y="201" fill="#A8B3C7" font-size="13">
               Most recent flagship push
             </text>
@@ -69,7 +69,7 @@
             <text x="62" y="316" fill="#F8FAFC" font-size="17"
                   font-weight="700">cell-painting-anndata-validator</text>
             <text x="360" y="316" fill="#A8B3C7" font-size="14">
-              Python · ★ 0
+              Python · ★ 1
             </text>
             <text x="530" y="316" fill="#A8B3C7" font-size="14">
               Validate the semantic correctness, metadata completeness, provenance and AI readiness of Cell...
