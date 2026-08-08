@@ -14,6 +14,8 @@
   <a href="https://github.com/ronfinn/cell-painting-anndata-validator"><strong>Cell Painting AnnData Validator</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/ronfinn/bio-run-crate"><strong>Bio Run Crate</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/ronfinn/biodataset-scout"><strong>BioDataset Scout</strong></a>
 </p>
 
 ## Building trustworthy scientific data systems
@@ -110,16 +112,24 @@ traceable and ready for responsible AI/ML use**.
       <p><code>RO-Crate</code> <code>FAIR</code> <code>reproducibility</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>Current design direction</h3>
-      <p>
-        Connecting metadata contracts, scientific workflow execution,
-        quality controls, provenance and governed reuse into coherent
-        research data products.
-      </p>
-      <p><code>metadata-contracts</code> <code>lineage</code> <code>data-products</code></p>
-    </td>
+  <h3>
+    <a href="https://github.com/ronfinn/biodataset-scout">
+      BioDataset Scout
+    </a>
+  </h3>
+  <p>
+    Evidence-backed discovery, qualification and acquisition intelligence
+    for biomedical datasets, with explainable scoring and preserved provenance.
+  </p>
+  <p>
+    <code>biomedical-data</code>
+    <code>data-discovery</code>
+    <code>provenance</code>
+  </p>
+</td>
   </tr>
 </table>
+
 
 ## Open-source portfolio pulse
 
