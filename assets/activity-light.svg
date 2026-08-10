@@ -12,7 +12,7 @@
         Public GitHub contributions aggregated by month
       </text>
       <text x="1118" y="44" text-anchor="end" fill="#0F172A"
-            font-size="22" font-weight="750">234</text>
+            font-size="22" font-weight="750">329</text>
       <text x="1118" y="65" text-anchor="end" fill="#475569"
             font-size="12">TOTAL CONTRIBUTIONS</text>
       
@@ -41,9 +41,9 @@
             <text x="62" y="295.0" text-anchor="end"
                   fill="#475569" font-size="12">0</text>
             
-      <path d="M 80.0 288.5 L 174.5 268.5 L 269.1 265.5 L 363.6 254.8 L 458.2 270.1 L 552.7 276.2 L 647.3 279.3 L 741.8 273.1 L 836.4 286.9 L 930.9 290.0 L 1025.5 100.0 L 1120.0 268.5" fill="none" stroke="#0F766E" stroke-width="4"
+      <path d="M 80.0 290.0 L 174.5 268.5 L 269.1 265.5 L 363.6 254.8 L 458.2 270.1 L 552.7 276.2 L 647.3 279.3 L 741.8 273.1 L 836.4 286.9 L 930.9 290.0 L 1025.5 100.0 L 1120.0 121.5" fill="none" stroke="#0F766E" stroke-width="4"
             stroke-linecap="round" stroke-linejoin="round"/>
-      <circle cx="80.0" cy="288.5" r="4.5" fill="#F8FAFC" stroke="#0F766E" stroke-width="3"/><circle cx="174.5" cy="268.5" r="4.5" fill="#F8FAFC" stroke="#0F766E" stroke-width="3"/><circle cx="269.1" cy="265.5" r="4.5" fill="#F8FAFC" stroke="#0F766E" stroke-width="3"/><circle cx="363.6" cy="254.8" r="4.5" fill="#F8FAFC" stroke="#0F766E" stroke-width="3"/><circle cx="458.2" cy="270.1" r="4.5" fill="#F8FAFC" stroke="#0F766E" stroke-width="3"/><circle cx="552.7" cy="276.2" r="4.5" fill="#F8FAFC" stroke="#0F766E" stroke-width="3"/><circle cx="647.3" cy="279.3" r="4.5" fill="#F8FAFC" stroke="#0F766E" stroke-width="3"/><circle cx="741.8" cy="273.1" r="4.5" fill="#F8FAFC" stroke="#0F766E" stroke-width="3"/><circle cx="836.4" cy="286.9" r="4.5" fill="#F8FAFC" stroke="#0F766E" stroke-width="3"/><circle cx="930.9" cy="290.0" r="4.5" fill="#F8FAFC" stroke="#0F766E" stroke-width="3"/><circle cx="1025.5" cy="100.0" r="4.5" fill="#F8FAFC" stroke="#0F766E" stroke-width="3"/><circle cx="1120.0" cy="268.5" r="4.5" fill="#F8FAFC" stroke="#0F766E" stroke-width="3"/>
+      <circle cx="80.0" cy="290.0" r="4.5" fill="#F8FAFC" stroke="#0F766E" stroke-width="3"/><circle cx="174.5" cy="268.5" r="4.5" fill="#F8FAFC" stroke="#0F766E" stroke-width="3"/><circle cx="269.1" cy="265.5" r="4.5" fill="#F8FAFC" stroke="#0F766E" stroke-width="3"/><circle cx="363.6" cy="254.8" r="4.5" fill="#F8FAFC" stroke="#0F766E" stroke-width="3"/><circle cx="458.2" cy="270.1" r="4.5" fill="#F8FAFC" stroke="#0F766E" stroke-width="3"/><circle cx="552.7" cy="276.2" r="4.5" fill="#F8FAFC" stroke="#0F766E" stroke-width="3"/><circle cx="647.3" cy="279.3" r="4.5" fill="#F8FAFC" stroke="#0F766E" stroke-width="3"/><circle cx="741.8" cy="273.1" r="4.5" fill="#F8FAFC" stroke="#0F766E" stroke-width="3"/><circle cx="836.4" cy="286.9" r="4.5" fill="#F8FAFC" stroke="#0F766E" stroke-width="3"/><circle cx="930.9" cy="290.0" r="4.5" fill="#F8FAFC" stroke="#0F766E" stroke-width="3"/><circle cx="1025.5" cy="100.0" r="4.5" fill="#F8FAFC" stroke="#0F766E" stroke-width="3"/><circle cx="1120.0" cy="121.5" r="4.5" fill="#F8FAFC" stroke="#0F766E" stroke-width="3"/>
       
             <text x="80.0" y="320"
                   text-anchor="middle" fill="#475569" font-size="12">
