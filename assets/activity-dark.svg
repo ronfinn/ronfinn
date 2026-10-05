@@ -41,68 +41,68 @@
             <text x="62" y="295.0" text-anchor="end"
                   fill="#A8B3C7" font-size="12">0</text>
             
-      <path d="M 80.0 281.4 L 174.5 274.6 L 269.1 267.9 L 363.6 277.5 L 458.2 281.4 L 552.7 283.3 L 647.3 279.4 L 741.8 288.1 L 836.4 290.0 L 930.9 171.0 L 1025.5 100.0 L 1120.0 258.3" fill="none" stroke="#14B8A6" stroke-width="4"
+      <path d="M 80.0 274.6 L 174.5 267.9 L 269.1 277.5 L 363.6 281.4 L 458.2 283.3 L 552.7 279.4 L 647.3 288.1 L 741.8 290.0 L 836.4 171.0 L 930.9 100.0 L 1025.5 258.3 L 1120.0 290.0" fill="none" stroke="#14B8A6" stroke-width="4"
             stroke-linecap="round" stroke-linejoin="round"/>
-      <circle cx="80.0" cy="281.4" r="4.5" fill="#0B1220" stroke="#14B8A6" stroke-width="3"/><circle cx="174.5" cy="274.6" r="4.5" fill="#0B1220" stroke="#14B8A6" stroke-width="3"/><circle cx="269.1" cy="267.9" r="4.5" fill="#0B1220" stroke="#14B8A6" stroke-width="3"/><circle cx="363.6" cy="277.5" r="4.5" fill="#0B1220" stroke="#14B8A6" stroke-width="3"/><circle cx="458.2" cy="281.4" r="4.5" fill="#0B1220" stroke="#14B8A6" stroke-width="3"/><circle cx="552.7" cy="283.3" r="4.5" fill="#0B1220" stroke="#14B8A6" stroke-width="3"/><circle cx="647.3" cy="279.4" r="4.5" fill="#0B1220" stroke="#14B8A6" stroke-width="3"/><circle cx="741.8" cy="288.1" r="4.5" fill="#0B1220" stroke="#14B8A6" stroke-width="3"/><circle cx="836.4" cy="290.0" r="4.5" fill="#0B1220" stroke="#14B8A6" stroke-width="3"/><circle cx="930.9" cy="171.0" r="4.5" fill="#0B1220" stroke="#14B8A6" stroke-width="3"/><circle cx="1025.5" cy="100.0" r="4.5" fill="#0B1220" stroke="#14B8A6" stroke-width="3"/><circle cx="1120.0" cy="258.3" r="4.5" fill="#0B1220" stroke="#14B8A6" stroke-width="3"/>
+      <circle cx="80.0" cy="274.6" r="4.5" fill="#0B1220" stroke="#14B8A6" stroke-width="3"/><circle cx="174.5" cy="267.9" r="4.5" fill="#0B1220" stroke="#14B8A6" stroke-width="3"/><circle cx="269.1" cy="277.5" r="4.5" fill="#0B1220" stroke="#14B8A6" stroke-width="3"/><circle cx="363.6" cy="281.4" r="4.5" fill="#0B1220" stroke="#14B8A6" stroke-width="3"/><circle cx="458.2" cy="283.3" r="4.5" fill="#0B1220" stroke="#14B8A6" stroke-width="3"/><circle cx="552.7" cy="279.4" r="4.5" fill="#0B1220" stroke="#14B8A6" stroke-width="3"/><circle cx="647.3" cy="288.1" r="4.5" fill="#0B1220" stroke="#14B8A6" stroke-width="3"/><circle cx="741.8" cy="290.0" r="4.5" fill="#0B1220" stroke="#14B8A6" stroke-width="3"/><circle cx="836.4" cy="171.0" r="4.5" fill="#0B1220" stroke="#14B8A6" stroke-width="3"/><circle cx="930.9" cy="100.0" r="4.5" fill="#0B1220" stroke="#14B8A6" stroke-width="3"/><circle cx="1025.5" cy="258.3" r="4.5" fill="#0B1220" stroke="#14B8A6" stroke-width="3"/><circle cx="1120.0" cy="290.0" r="4.5" fill="#0B1220" stroke="#14B8A6" stroke-width="3"/>
       
             <text x="80.0" y="320"
-                  text-anchor="middle" fill="#A8B3C7" font-size="12">
-              Oct
-            </text>
-            
-            <text x="174.5" y="320"
                   text-anchor="middle" fill="#A8B3C7" font-size="12">
               Nov
             </text>
             
-            <text x="269.1" y="320"
+            <text x="174.5" y="320"
                   text-anchor="middle" fill="#A8B3C7" font-size="12">
               Dec
             </text>
             
-            <text x="363.6" y="320"
+            <text x="269.1" y="320"
                   text-anchor="middle" fill="#A8B3C7" font-size="12">
               Jan 26
             </text>
             
-            <text x="458.2" y="320"
+            <text x="363.6" y="320"
                   text-anchor="middle" fill="#A8B3C7" font-size="12">
               Feb
             </text>
             
-            <text x="552.7" y="320"
+            <text x="458.2" y="320"
                   text-anchor="middle" fill="#A8B3C7" font-size="12">
               Mar
             </text>
             
-            <text x="647.3" y="320"
+            <text x="552.7" y="320"
                   text-anchor="middle" fill="#A8B3C7" font-size="12">
               Apr
             </text>
             
-            <text x="741.8" y="320"
+            <text x="647.3" y="320"
                   text-anchor="middle" fill="#A8B3C7" font-size="12">
               May
             </text>
             
-            <text x="836.4" y="320"
+            <text x="741.8" y="320"
                   text-anchor="middle" fill="#A8B3C7" font-size="12">
               Jun
             </text>
             
-            <text x="930.9" y="320"
+            <text x="836.4" y="320"
                   text-anchor="middle" fill="#A8B3C7" font-size="12">
               Jul
             </text>
             
-            <text x="1025.5" y="320"
+            <text x="930.9" y="320"
                   text-anchor="middle" fill="#A8B3C7" font-size="12">
               Aug
             </text>
             
-            <text x="1120.0" y="320"
+            <text x="1025.5" y="320"
                   text-anchor="middle" fill="#A8B3C7" font-size="12">
               Sep
+            </text>
+            
+            <text x="1120.0" y="320"
+                  text-anchor="middle" fill="#A8B3C7" font-size="12">
+              Oct
             </text>
             
       <text x="80" y="350" fill="#A8B3C7" font-size="12">
